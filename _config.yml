@@ -1,14 +1,14 @@
 # Site settings
-title: A.P
+title: Wenrui
 baseurl: "/ap"
 url: "https://kssim.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
+  name: Wenrui
+  desc: Hi
+  email: kol_zhao@163.com
   selfie: assets/img/profile.jpg
 
 # social
